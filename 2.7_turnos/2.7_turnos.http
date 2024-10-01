@@ -1,0 +1,6 @@
+@_2._7_turnos_HostAddress = http://localhost:5263
+
+GET {{_2._7_turnos_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Home\\source\\repos\\turnos_back\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5A072B-EE3A-4F5D-AF83-5AB3C5CD8C49}|turnos_back.csproj|c:\\users\\home\\source\\repos\\turnos_back\\service\\serviceservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5A072B-EE3A-4F5D-AF83-5AB3C5CD8C49}|turnos_back.csproj|solutionrelative:service\\serviceservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5A072B-EE3A-4F5D-AF83-5AB3C5CD8C49}|turnos_back.csproj|c:\\users\\home\\source\\repos\\turnos_back\\repository\\serviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5A072B-EE3A-4F5D-AF83-5AB3C5CD8C49}|turnos_back.csproj|solutionrelative:repository\\serviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C796386C-DC49-4E48-A387-60D9A9110B8F}|..\\2.7_turnos\\2.7_turnos.csproj|c:\\users\\home\\source\\repos\\2.7_turnos\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5A072B-EE3A-4F5D-AF83-5AB3C5CD8C49}|turnos_back.csproj|c:\\users\\home\\source\\repos\\turnos_back\\service\\iserviceservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5A072B-EE3A-4F5D-AF83-5AB3C5CD8C49}|turnos_back.csproj|solutionrelative:service\\iserviceservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F5A072B-EE3A-4F5D-AF83-5AB3C5CD8C49}|turnos_back.csproj|c:\\users\\home\\source\\repos\\turnos_back\\repository\\iserviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F5A072B-EE3A-4F5D-AF83-5AB3C5CD8C49}|turnos_back.csproj|solutionrelative:repository\\iserviciorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C796386C-DC49-4E48-A387-60D9A9110B8F}|..\\2.7_turnos\\2.7_turnos.csproj|c:\\users\\home\\source\\repos\\2.7_turnos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C796386C-DC49-4E48-A387-60D9A9110B8F}|..\\2.7_turnos\\2.7_turnos.csproj|c:\\users\\home\\source\\repos\\2.7_turnos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\2.7_turnos\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "..\\2.7_turnos\\Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\2.7_turnos\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "..\\2.7_turnos\\Controllers\\ServiciosController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAAAEkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:53:35.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IServiceServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\turnos_back\\Service\\IServiceServicio.cs",
+              "RelativeDocumentMoniker": "Service\\IServiceServicio.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\turnos_back\\Service\\IServiceServicio.cs",
+              "RelativeToolTip": "Service\\IServiceServicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:14:56.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\turnos_back\\Service\\ServiceServicio.cs",
+              "RelativeDocumentMoniker": "Service\\ServiceServicio.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\turnos_back\\Service\\ServiceServicio.cs",
+              "RelativeToolTip": "Service\\ServiceServicio.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAvwB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:14:00.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\2.7_turnos\\Program.cs",
+              "RelativeDocumentMoniker": "..\\2.7_turnos\\Program.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\2.7_turnos\\Program.cs",
+              "RelativeToolTip": "..\\2.7_turnos\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:56:34.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\2.7_turnos\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\2.7_turnos\\appsettings.json",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\2.7_turnos\\appsettings.json",
+              "RelativeToolTip": "..\\2.7_turnos\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAChAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T20:49:59.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\turnos_back\\repository\\ServicioRepository.cs",
+              "RelativeDocumentMoniker": "repository\\ServicioRepository.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\turnos_back\\repository\\ServicioRepository.cs",
+              "RelativeToolTip": "repository\\ServicioRepository.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAA0wEcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:42:26.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IServicioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\turnos_back\\repository\\IServicioRepository.cs",
+              "RelativeDocumentMoniker": "repository\\IServicioRepository.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\turnos_back\\repository\\IServicioRepository.cs",
+              "RelativeToolTip": "repository\\IServicioRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T20:42:06.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

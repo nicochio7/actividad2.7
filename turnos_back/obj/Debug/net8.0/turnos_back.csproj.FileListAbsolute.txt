@@ -1,0 +1,14 @@
+C:\Users\Home\source\repos\turnos_back\bin\Debug\net8.0\turnos_back.deps.json
+C:\Users\Home\source\repos\turnos_back\bin\Debug\net8.0\turnos_back.runtimeconfig.json
+C:\Users\Home\source\repos\turnos_back\bin\Debug\net8.0\turnos_back.dll
+C:\Users\Home\source\repos\turnos_back\bin\Debug\net8.0\turnos_back.pdb
+C:\Users\Home\source\repos\turnos_back\obj\Debug\net8.0\turnos_back.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\turnos_back\obj\Debug\net8.0\turnos_back.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\turnos_back\obj\Debug\net8.0\turnos_back.AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\turnos_back\obj\Debug\net8.0\turnos_back.AssemblyInfo.cs
+C:\Users\Home\source\repos\turnos_back\obj\Debug\net8.0\turnos_back.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\turnos_back\obj\Debug\net8.0\turnos_back.dll
+C:\Users\Home\source\repos\turnos_back\obj\Debug\net8.0\refint\turnos_back.dll
+C:\Users\Home\source\repos\turnos_back\obj\Debug\net8.0\turnos_back.pdb
+C:\Users\Home\source\repos\turnos_back\obj\Debug\net8.0\turnos_back.genruntimeconfig.cache
+C:\Users\Home\source\repos\turnos_back\obj\Debug\net8.0\ref\turnos_back.dll
